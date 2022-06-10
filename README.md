@@ -11,7 +11,7 @@ Users can choose to click on links which direct them to Avatar discography page 
 Each page will have its own back button.
 
 First link
- - Discography trivia/information on the last q0 Avatars.
+ - Discography trivia/information on the last 10 Avatars.
  	- each Avatar name will be a link directing to their own page with their image and history/trivia.
 
 Second link 
@@ -24,7 +24,8 @@ Third link
 - Create you own Avatar or other characters. Make your own aang gang!
 	- users will be able to use authentication.
 	- choose traits like name, height, gender, element/Avatar, favorite martial arts attack, pet companion, place of origin.
-	- 
-![AvatarVerse WF 1](https://user-images.githubusercontent.com/101136389/173146111-0d1869be-29ef-4eaf-9b2f-678c8ee29f07.jpeg)
+
+![AvatarVerse WF1](https://user-images.githubusercontent.com/101136389/173150622-255acf02-8f0d-4a0b-a039-365475f4e30e.jpeg)
 ![AvatarVerseWF2](https://user-images.githubusercontent.com/101136389/173146110-85166d4e-f269-42c4-8f8a-cc32ade16e5b.jpeg)
 ![AvatarVerseWF3](https://user-images.githubusercontent.com/101136389/173148211-5660ff68-81f8-4d2b-9ed6-77d8b12c6b21.jpeg)
+![AvatarVersewf4](https://user-images.githubusercontent.com/101136389/173150506-d6632da4-1703-493c-9911-518d3e9c556a.jpeg)

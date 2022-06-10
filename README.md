@@ -21,8 +21,8 @@ Second link
 
 Third link 
 
-- Create you own Avatar and other characters. Make your own aang gang!
-	- users will be able to use authentication
+- Create you own Avatar or other characters. Make your own aang gang!
+	- users will be able to use authentication.
 	- choose traits like name, height, gender, element/Avatar, favorite martial arts attack, pet companion, place of origin.
 	- 
 ![AvatarVerse WF 1](https://user-images.githubusercontent.com/101136389/173146111-0d1869be-29ef-4eaf-9b2f-678c8ee29f07.jpeg)

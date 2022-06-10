@@ -6,20 +6,21 @@ Welcome to the Avatar The Last Air Bender Universe!!
   A hub for all things things Avatar.
   
   User Story: 
-When entering main page users will see a welcome message and a background image or gif. 
+When entering main page, users will see a welcome message and a background image or gif. 
 Users can choose to click on links which direct them to Avatar discography page or Martial arts info page or create your own Avatar(s) page.
+
 Each page will have its own back button.
 
-First link
+First link/page
  - Discography trivia/information on the last 10 Avatars.
  	- each Avatar name will be a link directing to their own page with their image and history/trivia.
 
-Second link 
+Second link/page 
 - Discover the martial arts behind each element.
 	- All 5 elements will be displayed as an image/link that leads to a page with their corrosponding martial art.
 	- each martial art will have, history, notable/famous move, Notable Avatar
 
-Third link 
+Third link/page 
 
 - Create you own Avatar or other characters. Make your own aang gang!
 	- users will be able to use authentication.

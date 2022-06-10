@@ -3,7 +3,7 @@
 
 Welcome to the Avatar The Last Air Bender Universe!!
 
-  A place a hub for all things things Avatar.
+  A hub for all things things Avatar.
   
   User Story: 
 When entering main page users will see a welcome message and a background image or gif. 
@@ -24,7 +24,8 @@ Third link
 - Create you own Avatar and other characters. Make your own aang gang!
 	- users will be able to use authentication
 	- choose traits like name, height, gender, element/Avatar, favorite martial arts attack, pet companion, place of origin.
-![AvatarVerseWF2](https://user-images.githubusercontent.com/101136389/173146110-85166d4e-f269-42c4-8f8a-cc32ade16e5b.jpeg)
+	- 
 ![AvatarVerse WF 1](https://user-images.githubusercontent.com/101136389/173146111-0d1869be-29ef-4eaf-9b2f-678c8ee29f07.jpeg)
+![AvatarVerseWF2](https://user-images.githubusercontent.com/101136389/173146110-85166d4e-f269-42c4-8f8a-cc32ade16e5b.jpeg)
 
   

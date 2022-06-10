@@ -11,7 +11,7 @@ Users can choose to click on links which direct them to Avatar discography page 
 Each page will have its own back button.
 
 First link
- - Discover trivia/information on the last 20 Avatars.
+ - Discography trivia/information on the last q0 Avatars.
  	- each Avatar name will be a link directing to their own page with their image and history/trivia.
 
 Second link 

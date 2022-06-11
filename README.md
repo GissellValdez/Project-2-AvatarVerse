@@ -7,12 +7,10 @@ Welcome to the Avatar The Last Air Bender Universe!!
   
   User Story: 
 When entering main page, users will see a welcome message and a background image or gif. 
-Users can choose to click on links which direct them to Avatar discography page or Martial arts info page or create your own Avatar(s) page.
-
-Each page will have its own back button.
+Users can choose to click on links which direct them to Avatar discography page OR Martial arts info page OR create your own Avatar(s) page ; each page will have its own back button.
 
 First link/page
- - Discography trivia/information on the last 10 Avatars.
+ - Trivia/information on the last 10 Avatars.
  	- each Avatar name will be a link directing to their own page with their image and history/trivia.
 
 Second link/page 

@@ -30,9 +30,14 @@ Wire Frames :
 ![AvatarVerseWF2](https://user-images.githubusercontent.com/101136389/173146110-85166d4e-f269-42c4-8f8a-cc32ade16e5b.jpeg)
 ![AvatarVerseWF3](https://user-images.githubusercontent.com/101136389/173148211-5660ff68-81f8-4d2b-9ed6-77d8b12c6b21.jpeg)
 ![AvatarVersewf4](https://user-images.githubusercontent.com/101136389/173150506-d6632da4-1703-493c-9911-518d3e9c556a.jpeg)
- missing 2  more
  
  ERD
  ![ERD](https://user-images.githubusercontent.com/101136389/173154080-1fd86c09-5430-477b-81e1-18048a165a65.jpeg)
 
  
+Technologies Used :
+HTML
+CSS
+JAVASCRIPT
+LIQUID
+MOONGOOSE
